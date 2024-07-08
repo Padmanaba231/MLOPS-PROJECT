@@ -1,4 +1,4 @@
-# Submission 1: Nama Proyek Anda
+# Submission 1: Cancer Detection
 Nama:Putu Padmanaba
 
 Username dicoding:Putu Padmanaba
